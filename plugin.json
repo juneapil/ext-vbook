@@ -19,12 +19,12 @@
       "name": "TVTruyen",
       "author": "june",
       "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/TVTruyen/plugin.zip",
-      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/TVTruyen/icon.png",
       "version": 30,
       "source": "https://www.tvtruyen.com",
-      "description": "Đọc truyện trên TVTruyen",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/TVTruyen/icon.png",
+      "description": "Đọc truyện trên trang TVTruyen",
       "type": "novel",
       "locale": "vi_VN"
-    }
+    },
   ]
 }
