@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "name": "Bạch Ngọc Lầu",
+        "author": "june",
+        "version": 1,
+        "source": "https://bachngoclau.com",
+        "regexp": "bachngoclau\\.com/truyen/[^/]+/?(\\?chuong-id=\\d+)?$",
+        "description": "Đọc truyện tại bachngoclau.com",
+        "locale": "vi_VN",
+        "type": "novel",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "gen": "gen.js",
+        "search": "search.js"
+    }
+}
