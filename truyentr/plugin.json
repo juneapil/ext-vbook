@@ -18,5 +18,12 @@
     "page": "page.js",
     "toc": "toc.js",
     "chap": "chap.js"
+  },
+  "config": {
+    "BASE_URL": {
+      "title": "URL web",
+      "mode": "input",
+      "format": "text",
+      "default": "https://truyenazz.vn"
+    }
   }
-}

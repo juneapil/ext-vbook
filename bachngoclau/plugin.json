@@ -2,7 +2,7 @@
     "metadata": {
         "name": "Bạch Ngọc Lầu",
         "author": "june",
-        "version": 1,
+        "version": 2,
         "source": "https://bachngoclau.com",
         "regexp": "bachngoclau\\.com/truyen/[^/]+/?(\\?chuong-id=\\d+)?$",
         "description": "Đọc truyện tại bachngoclau.com",
