@@ -49,6 +49,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "inkitt",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/inkitt/plugin.zip",
+      "version": 1,
+      "source": "https://www.inkitt.com/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/inkitt/icon.png",
+      "description": "Đọc truyện trên trang inkitt",
+      "type": "novel",
+      "locale": "en_US"
+    },
+    {
       "name": "TVTruyen",
       "author": "june",
       "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/TVTruyen/plugin.zip",

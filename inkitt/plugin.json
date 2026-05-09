@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "name": "inkitt",
+        "author": "june",
+        "version": 1,
+        "source": "https://www.inkitt.com/",
+        "regexp": "https://www.inkitt\\.com/stories/[0-9]+.*",
+        "description": "Extension đọc truyện từ inkitt.com",
+        "locale": "en_US",
+        "language": "javascript",
+        "type": "novel"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "search": "search.js",
+        "gen": "gen.js"
+    }
+}
