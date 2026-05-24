@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Metruyenhot",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/metruyenhotvn/plugin.zip",
+      "version": 1,
+      "source": "https://metruyenhotvn.com/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/metruyenhotvn/icon.png",
+      "description": "Đọc truyện trên trang Metruyenhotvn",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Stellarstory",
       "author": "june",
       "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/stellarstory/plugin.zip",

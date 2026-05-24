@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Metruyenhot",
+    "author": "june",
+    "version": 1,
+    "source": "https://metruyenhotvn.com/",
+    "regexp": "metruyenhotvn.com/[^/]+/?$",
+    "description": "Đọc truyện trên trang Metruyenhot",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "page": "page.js",
+    "chap": "chap.js"
+  }
+}
