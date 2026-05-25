@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Metruyenhot",
     "author": "june",
-    "version": 2,
+    "version": 3,
     "source": "https://metruyenhotvn.com/",
     "regexp": "metruyenhotvn.com/[^/]+/?$",
     "description": "Đọc truyện trên trang Metruyenhot",
