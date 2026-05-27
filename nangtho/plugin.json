@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "nangtho",
+    "author": "june",
+    "version": 1,
+    "source": "https://nangtho.site/",
+    "regexp": "^https:\\/\\/nangtho\\.site\\/truyen\\/[^\\/?]+\\/?(?:\\?.*)?$",
+    "description": "truyện trên nangtho",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

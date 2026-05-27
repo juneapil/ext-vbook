@@ -80,6 +80,28 @@
       "description": "Đọc truyện trên trang TVTruyen",
       "type": "novel",
       "locale": "vi_VN"
+    },
+    {
+      "name": "CoMong",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/comong/plugin.zip",
+      "version": 1,
+      "source": "https://comong.site/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/comong/icon.png",
+      "description": "Đọc truyện trên trang comong",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "NangTho",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/nangtho/plugin.zip",
+      "version": 1,
+      "source": "https://nangtho.site/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/nangtho/icon.png",
+      "description": "Đọc truyện trên trang nangtho",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
