@@ -2,9 +2,9 @@
   "metadata": {
     "name": "TVTruyen",
     "author": "june",
-    "version": 31,
-    "source": "https://www.tvtruyen.com/",
-    "regexp": "^https?://(www\\.)?tvtruyen\\.com/",
+    "version": 32,
+    "source": "https://www.tvtruyen.co.uk/",
+    "regexp": "^https:\\/\\/(?:www\\.)?tvtruyen\\.(?:co\\.uk|com)\\/[^\\/]+\\.html$",
     "description": "TVTruyen - Truyện tranh, truyện chữ miễn phí",
     "locale": "vi_VN",
     "type": "novel",
