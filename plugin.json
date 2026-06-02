@@ -124,6 +124,17 @@
       "description": "Đọc truyện trên trang MeoMeoTruyen",
       "type": "novel",
       "locale": "vi_VN"
+    },
+    {
+      "name": "Lão phật gia",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/laophatgia/plugin.zip",
+      "version": 1,
+      "source": "https://laophatgia.net",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/laophatgia/icon.png",
+      "description": "Đọc truyện trên trang laophatgia",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
