@@ -135,6 +135,17 @@
       "description": "Đọc truyện trên trang laophatgia",
       "type": "novel",
       "locale": "vi_VN"
+    },
+    {
+      "name": "MonkeyD VN",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/monkeydd/plugin.zip",
+      "version": 10,
+      "source": "https://www.monkeydd.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/monkeyd/icon.png",
+      "description": "Đọc truyện trên trang MonkeyD",
+      "locale": "vi_VN",
+      "type": "novel"
     }
   ]
 }
