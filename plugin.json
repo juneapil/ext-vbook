@@ -153,7 +153,7 @@
       "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/medoctruyen/plugin.zip",
       "version": 1,
       "source": "https://medoctruyen.vn",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/medoctruyen/icon.png",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/medoctruyen/icon.png",
       "description": "Đọc truyện trên trang Me đọc truyện",
       "locale": "vi_VN",
       "type": "novel"
