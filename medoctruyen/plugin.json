@@ -2,7 +2,7 @@
   "metadata": {
     "name": "medoctruyen",
     "author": "june",
-    "version": 1,
+    "version": 2,
     "source": "https://medoctruyen.vn/",
     "regexp": "medoctruyen.vn/[^/]+/?$",
     "description": "Đọc truyện trên trang medoctruyen",
@@ -19,8 +19,8 @@
     "page": "page.js",
     "chap": "chap.js"
   },
-  "config": {
-    "thread_num": 1,
-    "delay": 10000
-  }
+    "config": {
+        "thread_num": 1,
+        "delay": 10000
+    }
 }

@@ -147,11 +147,11 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-{
+    {
       "name": "Mê Đọc Truyện",
       "author": "june",
       "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/medoctruyen/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://medoctruyen.vn",
       "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/medoctruyen/icon.png",
       "description": "Đọc truyện trên trang Me đọc truyện",
