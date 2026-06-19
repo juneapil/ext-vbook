@@ -2,7 +2,7 @@
   "metadata": {
     "name": "medoctruyen",
     "author": "june",
-    "version": 2,
+    "version": 3,
     "source": "https://medoctruyen.vn/",
     "regexp": "medoctruyen.vn/[^/]+/?$",
     "description": "Đọc truyện trên trang medoctruyen",
