@@ -2,7 +2,7 @@
     "metadata": {
         "name": "VivuTruyen",
         "author": "june",
-        "version": 2,
+        "version": 3,
         "source": "https://vivutruyen.net",
         "regexp": "(vivutruyen|vivutruyen2|yeutruyen)(\\.net|\\.me)/[^/]+/?$",
         "description": "Đọc truyện tại vivutruyen, vivutruyen2, yeutruyen",
