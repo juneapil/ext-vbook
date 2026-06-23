@@ -104,13 +104,13 @@
       "locale": "vi_VN"
     },
     {
-      "name": "Doctruyenchill",
+      "name": "Say Truyện",
       "author": "june",
-      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/doctruyenchill/plugin.zip",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/saytruyen/plugin.zip",
       "version": 1,
-      "source": "https://doctruyenchill.net/",
-      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/doctruyenchill/icon.png",
-      "description": "Đọc truyện trên trang doctruyenchill",
+      "source": "https://saytruyen.vn/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/saytruyen/icon.png",
+      "description": "Đọc truyện trên trang saytruyen.vn | doctruyenchill | truyenhothay.site",
       "type": "novel",
       "locale": "vi_VN"
     },
