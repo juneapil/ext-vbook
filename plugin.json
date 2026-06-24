@@ -157,6 +157,17 @@
       "description": "Đọc truyện trên trang Me đọc truyện",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "Vân Mộng Lâu",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/vanmonglau/plugin.zip",
+      "version": 1,
+      "source": "https://vanmonglau.com/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/vanmonglau/icon.png",
+      "description": "Đọc truyện trên trang Vân Mộng Lâu",
+      "locale": "vi_VN",
+      "type": "novel"
     }
   ]
 }

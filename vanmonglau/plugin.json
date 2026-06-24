@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "name": "Van Mong Lau",
+        "author": "june",
+        "version": 1,
+        "source": "https://vanmonglau.com/",
+        "regexp": "^https?:\\/\\/vanmonglau\\.com\\/chi-tiet-truyen\\/index\\.php\\?manga_id=\\d+(?:&.*)?$",
+        "description": "Đọc truyện tại Van Mong Lau",
+        "locale": "vi_VN",
+        "type": "novel",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "gen": "gen.js",
+        "search": "search.js"
+    }
+}
