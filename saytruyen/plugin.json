@@ -2,10 +2,10 @@
     "metadata": {
         "name": "Say Truyện",
         "author": "june",
-        "version": 1,
+        "version": 2,
         "source": "https://saytruyen.vn/",
-        "regexp": "(doctruyenchill|saytruyen|truyenhothay)\\.(net|vn|site)/truyen/[^/]+/?$",
-        "description": "Đọc truyện tại \ndoctruyenchill.net|saytruyen.vn|truyenhothay.site",
+        "regexp": "(doctruyenchill|saytruyen|truyenhothay|hongtruyenhot|tieuhoadan)\\.(net|vn|site)/truyen/[^/]+/?$",
+        "description": "Đọc truyện tại \ndoctruyenchill.net|saytruyen.vn|truyenhothay.site\nhongtruyenhot.net|tieuhoadan.site",
         "locale": "vi_VN",
         "type": "novel",
         "language": "javascript"
