@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "name": "VivuTruyen-YeuTruyen",
+        "author": "june",
+        "version": 5,
+        "source": "https://vivutruyen.net",
+        "regexp": "(vivutruyen|vivutruyen2|yeutruyen)(\\.net|\\.me)/[^/]+/?$",
+        "description": "Đọc truyện tại vivutruyen, vivutruyen2, yeutruyen",
+        "locale": "vi_VN",
+        "type": "novel",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "gen": "gen.js",
+        "search": "search.js"
+    }
+}
