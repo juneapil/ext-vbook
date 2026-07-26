@@ -168,6 +168,18 @@
       "description": "Đọc truyện trên trang Vân Mộng Lâu",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "Mèo Kam Mập",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/meocammap/plugin.zip",
+      "version": 1,
+      "source": "https://meocammap.com",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/meocammap/icon.png",
+      "description": "Đọc truyện trên trang Mèo Kam Mập",
+      "locale": "vi_VN",
+      "type": "novel"
     }
+    
   ]
 }
