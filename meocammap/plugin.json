@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Mèo Kam Mập",
     "author": "june",
-    "version": 1,
+    "version": 2,
     "source": "https://meocammap.com/",
     "regexp": "meocammap.com/stories/[^/]+",
     "description": "Đọc truyện trên trang Mèo Kam Mập",
