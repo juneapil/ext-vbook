@@ -179,6 +179,17 @@
       "description": "Đọc truyện trên trang Mèo Kam Mập",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "Archiveofourown",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/archiveofourown/plugin.zip",
+      "version": 1,
+      "source": "https://archiveofourown.org/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/archiveofourown/icon.png",
+      "description": "Đọc truyện trên AO3",
+      "locale": "en_US",
+      "type": "novel"
     }
   ]
 }
