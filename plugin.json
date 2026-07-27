@@ -190,6 +190,17 @@
       "description": "Đọc truyện trên AO3",
       "locale": "en_US",
       "type": "novel"
+    },
+    {
+      "name": "TruyenHay",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/truyenhay/plugin.zip",
+      "version": 1,
+      "source": "https://truyenhay.io.vn",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/truyenhay/icon.png",
+      "description": "Đọc truyện trên trang truyenhay.io.vn",
+      "locale": "vi_VN",
+      "type": "novel"
     }
   ]
 }

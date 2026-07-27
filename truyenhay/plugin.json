@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "TruyenHay",
+    "author": "june",
+    "version": 1,
+    "source": "https://truyenhay.io.vn/",
+    "regexp": "^https:\\/\\/truyenhay\\.io\\.vn\\/truyen/[^/]+/?$",
+    "description": "Đọc truyện trên trang truyenhay.io.vn",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript",
+    "encrypt": true
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
