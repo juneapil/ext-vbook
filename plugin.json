@@ -201,6 +201,17 @@
       "description": "Đọc truyện trên trang truyenhay.io.vn",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "Mọt Truyện Trung",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/mottruyentrung/plugin.zip",
+      "version": 1,
+      "source": "https://mottruyentrung.net.vn/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/mottruyentrung/icon.png",
+      "description": "Đọc truyện trên trang mottruyentrung.net.vn",
+      "locale": "vi_VN",
+      "type": "novel"
     }
   ]
 }

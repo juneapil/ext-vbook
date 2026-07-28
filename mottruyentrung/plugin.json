@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "name": "Mọt Truyện Trung",
+        "author": "june",
+        "version": 1,
+        "source": "https://mottruyentrung.net.vn/",
+        "regexp": "^https?:\\/\\/mottruyentrung\\.net\\.vn\\/manga/[^/]+/?$",
+        "description": "Đọc truyện tại Mọt Truyện Trung",
+        "locale": "vi_VN",
+        "type": "novel",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "gen": "gen.js",
+        "search": "search.js"
+    }
+}
