@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "AnimeVietsub",
+    "author": "june",
+    "version": 8,
+    "source": "https://animevietsub.mom",
+    "description": "Xem anime VietSub từ AnimeVietsub",
+    "locale": "vi",
+    "regexp": "(?:www\\.)?animevietsub\\.(?:xyz|mom)/phim/[^/]+-a[0-9]+/?$",
+    "type": "video",
+    "nsfw": false,
+    "encrypt": true
+  },
+  "script": {
+    "home": "home.js",
+    "explore": "explore.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://animevietsub.mom",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

@@ -223,6 +223,28 @@
       "description": "Đọc truyện trên trang wattpad",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "NguonC",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/nguonc/plugin.zip",
+      "version": 1,
+      "source": "https://phim.nguonc.com",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/nguonc/icon.png",
+      "description": "Đọc truyện trên trang nguonc",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
+      "name": "AnimeVietsub",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/AnimeVietsub/plugin.zip",
+      "version": 8,
+      "source": "https://animevietsub.mom",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/AnimeVietsub/icon.png",
+      "description": "Đọc truyện trên trang AnimeVietsub",
+      "locale": "vi_VN",
+      "type": "video"
     }
   ]
 }
