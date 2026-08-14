@@ -212,6 +212,17 @@
       "description": "Đọc truyện trên trang mottruyentrung.net.vn",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "Wattpad",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/wattpad/plugin.zip",
+      "version": 4,
+      "source": "https://www.wattpad.com/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/wattpad/icon.png",
+      "description": "Đọc truyện trên trang wattpad",
+      "locale": "vi_VN",
+      "type": "novel"
     }
   ]
 }
