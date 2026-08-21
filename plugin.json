@@ -245,6 +245,16 @@
       "description": "Đọc truyện trên trang AnimeVietsub",
       "locale": "vi_VN",
       "type": "video"
-    }
+    },{
+			"name": "JJWXC",
+			"author": "june",
+			"path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/JJWXC/plugin.zip",
+			"version": 9,
+			"source": "https://www.jjwxc.net/",
+			"icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/JJWXC/icon.png",
+			"description": "Đọc truyện trên trang tấn giang, ext sửa chatgpt",
+			"type": "chinese_novel",
+			"locale": "zh_CN"
+		}
   ]
 }
