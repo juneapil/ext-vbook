@@ -255,6 +255,26 @@
       "description": "Đọc truyện trên trang tấn giang, ext sửa chatgpt",
       "type": "chinese_novel",
       "locale": "zh_CN"
+		},{
+      "name": "WhoviansVietNam",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/whovians/plugin.zip",
+      "version": 1,
+      "source": "https://sites.google.com/view/whoviansvietnam/",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/whovians/icon.png",
+      "description": "Xem Doctor Who từ WhoviansVietNam",
+      "type": "video",
+      "locale": "vi_VN"
+		},{
+      "name": "Xem tiVi",
+      "author": "june",
+      "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/tivi/plugin.zip",
+      "version": 1,
+      "source": "tivi",
+      "icon": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/tivi/icon.png",
+      "description": "xem tivi",
+      "type": "video",
+      "locale": "vi_VN"
 		}
   ]
 }

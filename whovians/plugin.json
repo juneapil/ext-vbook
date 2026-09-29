@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "WhoviansVietNam",
+    "author": "june",
+    "version": 1,
+    "source": "https://sites.google.com/view/whoviansvietnam/",
+    "description": "Xem Doctor Who từ WhoviansVietNam",
+    "locale": "vi",
+    "regexp": "sites\\.google\\.com/view/whoviansvietnam/[^/?#]+(?:/[^/?#]+)?/?$",
+    "type": "video",
+    "nsfw": false,
+    "encrypt": true
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "track": "track.js"
+  }
+}
