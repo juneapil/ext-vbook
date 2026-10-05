@@ -266,7 +266,7 @@
       "type": "video",
       "locale": "vi_VN"
 		},{
-      "name": "Xem tiVi",
+      "name": "Tivi",
       "author": "june",
       "path": "https://raw.githubusercontent.com/juneapil/ext-vbook/master/tivi/plugin.zip",
       "version": 1,
