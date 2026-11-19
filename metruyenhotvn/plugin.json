@@ -2,8 +2,8 @@
   "metadata": {
     "name": "Metruyenhot",
     "author": "june",
-    "version": 3,
-    "source": "https://metruyenhotvn.com/",
+    "version": 4,
+    "source": "https://metruyenhot.vn/",
     "regexp": "metruyenhotvn.com/[^/]+/?$",
     "description": "Đọc truyện trên trang Metruyenhot",
     "locale": "vi-VN",
@@ -18,5 +18,15 @@
     "toc": "toc.js",
     "page": "page.js",
     "chap": "chap.js"
-  }
+  },
+    "config": {
+        "thread_num": 1,
+        "delay": 2000,
+        "CONFIG_URL": {
+            "title": "Domain web",
+            "mode": "input",
+            "format": "text",
+            "default": "https://metruyenhot.vn/"
+        }
+    }
 }
